@@ -1,10 +1,7 @@
-## Title 
-extract-and-visualize-stock-data
-
-
-## Description
+## extract-and-visualize-stock-data
 Analyzing Historical Stock/Revenue Data and Building a Dashboard. 
 
+## Description
 Purpose of this project is to demonstrate the following Python skills: 
 - Question 1: Use yfinance to Extract Stock Data
 - Question 2: Use Webscraping to Extract Tesla Revenue Data
